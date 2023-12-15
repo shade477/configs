@@ -4,7 +4,9 @@ sudo apt update && sudo apt upgrade -y
 cd /tmp
 curl https://raw.githubusercontent.com/shade477/configs/main/tmux.conf > .tmux.conf
 curl https://raw.githubusercontent.com/shade477/configs/main/.zshrc > .zshrc
+curl https://raw.githubusercontent.com/shade477/configs/main/proxychains4.conf > proxychains4.conf
 mv .{tmux.conf,zshrc} ~/
+mv proxychains4.conf /etc/
 cd ~
 sudo apt install kali-win-kex -y
 sudo apt install tmux -y
