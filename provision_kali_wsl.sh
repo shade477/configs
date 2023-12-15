@@ -23,3 +23,4 @@ sudo apt install crackmapexec -y
 sudo apt install hashcat -y
 sudo apt install evil-winrm -y
 sudo apt install snmp -y
+sudo apt install onesixtyone -y
