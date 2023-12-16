@@ -26,3 +26,7 @@ sudo apt install hashcat -y
 sudo apt install evil-winrm -y
 sudo apt install snmp -y
 sudo apt install onesixtyone -y
+sudo apt install john -y
+sudo apt install seclists -y
+sudo apt install html2text -y
+sudo apt install hashcat -y
