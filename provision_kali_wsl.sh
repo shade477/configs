@@ -30,3 +30,6 @@ sudo apt install john -y
 sudo apt install seclists -y
 sudo apt install html2text -y
 sudo apt install hashcat -y
+sudo apt install hydra -y
+sudo apt install metasploit-framework -y
+sudo apt install qemu-utils -y
