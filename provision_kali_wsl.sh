@@ -37,5 +37,6 @@ sudo apt install responder -y
 sudo apt install sublist3r -y
 python -m pip install --upgrade pip
 sudo python3 -m pip install --user uploadserver
-sudo apt install zsh-autosuggestions
-sudo apt install zsh-syntax-highlighting
+#sudo apt install zsh-autosuggestions
+#sudo apt install zsh-syntax-highlighting
+sudo apt install jadx
