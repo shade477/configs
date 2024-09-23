@@ -41,7 +41,7 @@ sudo apt install luarocks -y
 python -m pip install --upgrade pip
 sudo python3 -m pip install --user uploadserver
 searchsploit -u
-sudo apt install pipx
+sudo apt install pipx -y
 pipx ensurepath
 pipx install git+https://github.com/Pennyw0rth/NetExec
 cd dotfiles
