@@ -10,6 +10,10 @@ mv .{tmux.conf,zshrc} ~/
 mv proxychains4.conf /etc/
 cd ~
 sudo apt install kali-win-kex -y
+sudo apt install dirb -y
+sudo apt install ffuf -y
+sudo apt install gobuster -y
+sudo apt install wordlists -y
 sudo apt install tmux -y
 sudo apt install zsh -y
 sudo apt install openvpn -y
