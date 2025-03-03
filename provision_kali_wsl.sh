@@ -42,6 +42,8 @@ sudo apt install sublist3r -y
 sudo apt install exploitdb -y
 sudo apt install neovim -y
 sudo apt install luarocks -y
+sudo apt install sqlitebrowser -y
+sudo apt install hashid -y
 python -m pip install --upgrade pip
 sudo python3 -m pip install --user uploadserver
 searchsploit -u
