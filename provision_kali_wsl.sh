@@ -10,6 +10,7 @@ mv .{tmux.conf,zshrc} ~/
 mv proxychains4.conf /etc/
 cd ~
 sudo apt install kali-win-kex -y
+sudo apt install dirsearch -y
 sudo apt install dirb -y
 sudo apt install ffuf -y
 sudo apt install gobuster -y
