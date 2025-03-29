@@ -48,6 +48,8 @@ python -m pip install --upgrade pip
 sudo python3 -m pip install --user uploadserver
 searchsploit -u
 sudo apt install pipx -y
+sudo apt install jq -y
+git clone https://github.com/SECFORCE/SNMP-Brute /opt/SNMP-Brute
 pipx ensurepath
 pipx install git+https://github.com/Pennyw0rth/NetExec
 cd dotfiles
